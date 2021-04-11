@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomCursors", "CustomCursors.csproj", "{96BCC97E-0B73-4D50-8097-B9A1B8792652}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96BCC97E-0B73-4D50-8097-B9A1B8792652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96BCC97E-0B73-4D50-8097-B9A1B8792652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96BCC97E-0B73-4D50-8097-B9A1B8792652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96BCC97E-0B73-4D50-8097-B9A1B8792652}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D87DFAD-1A04-4EE8-B82C-B3FE4E1046E7}
+	EndGlobalSection
+EndGlobal
